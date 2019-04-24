@@ -1,0 +1,2 @@
+# ManageMate
+Thesis Project
