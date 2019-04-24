@@ -1,0 +1,5 @@
+/managemate_project/media
+
+__pycache__/
+*.py[cod]
+myvirtualen
