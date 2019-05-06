@@ -6,13 +6,13 @@ myvirtualen
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/managemate_fontend/node_modules
+/node_modules
 
 # testing
-/managemate_fontend/coverage
+/coverage
 
 # production
-/managemate_fontend/build
+/build
 
 # misc
 .DS_Store
