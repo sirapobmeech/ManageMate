@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="425d05ca-5f26-4e4f-ae3f-6be6644cf69a" name="Default Changelist" comment="" />
+    <list default="true" id="425d05ca-5f26-4e4f-ae3f-6be6644cf69a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/managemate_bacend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/managemate_bacend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/managemate_bacend/managemate_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/managemate_bacend/managemate_project/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/managemate_bacend/managemate_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="633">
-              <caret line="125" selection-start-line="125" selection-end-line="125" />
+              <caret line="129" selection-start-line="129" selection-end-line="129" />
             </state>
           </provider>
         </entry>
@@ -148,7 +152,7 @@
     <entry file="file://$PROJECT_DIR$/managemate_bacend/managemate_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="633">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
         </state>
       </provider>
     </entry>
